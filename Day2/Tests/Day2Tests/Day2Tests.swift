@@ -44,7 +44,6 @@ final class Day2Tests: XCTestCase {
         let day = Day2(input: input)
 
         XCTAssertEqual(try day.part2(), "4967")
-
     }
 
 
